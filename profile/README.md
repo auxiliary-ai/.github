@@ -18,13 +18,11 @@ Our approach emphasizes:
 
 - Launching **DAURA** — detection of disadvantaged urban areas.  
 - Advancing **Walter** — adaptive trading with reinforcement learning.  
-- Prototyping **multi-agent collaboration** pipelines.  
-
-<p align="center">
+<p align="center" style="display:flex;justify-content:center;align-items:center;gap:48px;">
   <a href="https://github.com/auxiliary-ai/DAURA" target="_blank" rel="noopener noreferrer">
-    <img src="../daura_logo.svg" alt="DAURA logo" height="120" style="margin: 0 24px;" />
+    <img src="../daura_logo.svg" alt="DAURA logo" height="120" />
   </a>
   <a href="https://github.com/auxiliary-ai/Walter" target="_blank" rel="noopener noreferrer">
-    <img src="../walter_logo%209.28.04%E2%80%AFPM.svg" alt="Walter logo" height="120" style="margin: 0 24px;" />
+    <img src="../walter_logo%209.28.04%E2%80%AFPM.svg" alt="Walter logo" height="120" />
   </a>
 </p>
