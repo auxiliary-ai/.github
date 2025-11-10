@@ -28,5 +28,5 @@ We build **modular**, **domain-specific** AI agents that can work independently 
     <img src="../daura_logo.svg" alt="DAURA logo" height="120" style="margin: 0 24px;" />
   </a>
   <a href="https://github.com/auxiliary-ai/Walter" target="_blank" rel="noopener noreferrer">
-    <img src="../walter_logo%209.28.04%E2%80%AFPM.svg" alt="Walter logo" height="120" style="margin: 0 24px;" />
+    <img src="../walter_logo.svg" alt="Walter logo" height="120" style="margin: 0 24px;" />
   </a>
