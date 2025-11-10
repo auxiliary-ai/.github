@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../aux_logo.svg" alt="Auxiliary AI logo" width="260" />
+  <img src="../aux_logo.svg" alt="Auxiliary AI logo" width="500" />
 </p>
 
 
