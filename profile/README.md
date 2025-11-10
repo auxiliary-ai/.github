@@ -1,46 +1,32 @@
 # 🧠 Auxiliary-AI
 
-**Auxiliary-AI** is a small team of two researchers/engineers building purposeful AI agents for real-world impact.  
-Our goal is to design intelligent systems that *assist, augment, and empower* — from finance and urban analytics to social good applications.
+**Auxiliary-AI** is a team of researchers and engineers creating practical AI agents for real-world impact.  
+We design systems that **assist**, **augment**, and **empower** — in finance, urban analytics, and social applications.
 
 ---
 
-## 🚀 About Us
+## 🚀 About
 
-We’re focused on developing modular, domain-specific AI agents that can operate autonomously or integrate into existing workflows.  
-Each agent we release targets a clear, practical objective — combining interpretability, adaptability, and reliability.
-
-| Agent | Domain | Description |
-|:------|:--------|:-------------|
-| **Walter** | Trading | A data-driven trading agent designed for adaptive market interaction. |
-| **DAURA** | Urban Equity | Detects and analyzes disadvantaged areas in urban environments to inform equitable policy decisions. |
-| *(More coming soon)* |  |  |
+We build **modular**, **domain-specific** AI agents that can work independently or integrate into existing workflows.  
+Each one is crafted for a focused purpose — combining clarity, adaptability, and reliability.
 
 ---
 
-## 🧩 Philosophy
+## 💡 Principles
 
-We believe AI should act as an **auxiliary intelligence** — a complement to human reasoning rather than a replacement.  
-Our work emphasizes:
-- **Transparency** – interpretable models and traceable reasoning.  
-- **Efficiency** – lean architectures optimized for real-time applications.  
-- **Fairness** – socially responsible systems for equitable decision-making.  
+AI should serve as an **auxiliary intelligence** — enhancing human reasoning, not replacing it.  
+Our approach emphasizes:
 
----
-
-## 🛠️ Current Work
-
-- Finalizing the **DAURA** framework for disadvantaged-area detection.  
-- Upgrading **Walter** with new reinforcement learning modules.  
-- Prototyping agent orchestration pipelines for multi-agent collaboration.  
+- **Transparency** — models you can understand and trust.  
+- **Efficiency** — lean, real-time systems built for performance.  
+- **Fairness** — responsible design for social impact.  
 
 ---
 
-## 📬 Contact
+## 🧩 Current Work
 
-Interested in collaborating or learning more?  
-Reach out at **info@auxiliary-ai.com** or follow our updates on GitHub.
+- Launching **DAURA** — detection of disadvantaged urban areas.  
+- Advancing **Walter** — adaptive trading with reinforcement learning.  
+- Prototyping **multi-agent collaboration** pipelines.  
 
 ---
-
-> “Turning Data into Direction with Auxiliary Intelligence.”
